@@ -1,0 +1,17 @@
+Præsentation
+Controller > hvor er vi ?
+Business logic > beslutninger hvor vi er
+Data Access Object > CRUD etc
+
+Protip:
+Interface som superclass gør at du kan køre:
+	Interface i = new subClassAfInterface();
+	således kan du så gøre brug af interfacet og
+	derfor gøre dem "low coupled" dvs mindre afhængig af hinanden :)
+
+Cloud computing
+Software as a service
+Platform as a service
+Infrastructure as a service
+
+Mindset;

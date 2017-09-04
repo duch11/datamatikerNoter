@@ -1,0 +1,53 @@
+Part 1: Design as a dreamcatcher
+
+    - Vi fik en historie om hvordan en mand blev reddet, som et produkt af
+      teamwork OG de rette værktøjer der sammen gik op i en højere enhed - og reddede ham!
+      - "Notation is a tool of thought.
+         A problem properly represented is largely solved."
+      - Teamwork er vigtigt.
+
+    - Forskel mellem et træskåret kort og en moderne batteridreven gps.. Det træskårede kort vinder, til formålet.
+      - Pointen er at man skal designe ud fra virkeligheden. Så du ved hvad der SKAL bygges, fremfor hvad KAN bygges.
+
+    - Apple, altid lidt bagud med technologi, men på en eller anden måde, er det DERES implementering der ofte vinder.
+      - De har forstået at R&D afdelingen IKKE er en design afdeling.
+      - Den mac, der vendte det hele for dem, var sådan set bare et "pænt design" ingen revolutionær ændring i User interfacet
+        som sådan.
+      - Designet var holistisk, de enkelte dele var ikke bare designet til at ligne at det passede sammen.
+      - Deres iPod, var ikke bare et magisk overnight succes produkt, det tog en hel velsmurt maskine af afdelinger og
+        organisation der samlet set gjorde at produktet blev en succes (efter 3 år i øvrigt).
+        - I am hard pressed to think of one part of Apple that wasn't critical to the success of the iPod.
+        - Everyone is essential, BUT NO PERSON OR GROUP IS SUFFICIENT ON THEIR OWN!
+
+    - Vigtigheden af god planlægning og en god itterativ design process FØR vi bygger noget.
+      - Vi ved ikke hvad vi vil have inden vi bygger et produkt, derfor, design det først, men arbejd også med
+        design itterativt i produktions fasen! VIGTIGT!
+      - Man får et bedre produkt og store besparelser hvis man sørger for at inkorporerer design ordentligt fra starten!
+      - Det er lige så forkert at lade en hardcore koder til at lave design, som det er at få en designer til at lave kode.
+      - Planlæg og design ud fra hvad krav man fx har til tidsplanen! (ellers bliver den nok overskreden)
+
+    - Vi får en guide til sketching generelt.
+      - En sketch er det man har før en prototype.
+      - En sketch er undersøgende, kan hurtigt ændres, smides ud.
+      - Lavet til at man kan lave en hel masse fejl så man kan blive bedre og lære af fejl HURTIGT!
+      - Man har en tovejsdialog med en sketch, man tegner den, kigger på den, får nye idéer og lærer noget ud fra den.
+      - De bedste sketches er MEGET grove og udetaljerede, for at bevare deres evne til at inspirere og måske give nye idéer.
+
+    - Experience design vs Interface design.
+      - Appelsin presser eksempel, han fik en bedre en, der var rarere at bruge, havde et andet design der gjorde den mere
+        behagelig at bruge.
+      - Den var som sådan ikke anderledes i interface (stang der skulle presses ned), han havde en først der VAR anderledes
+        i interface design (den var elektrisk med knap).
+      - UX kommer ikke ved et tilfælde, det skal designes!
+
+    - Design er valg og kompromisser!
+      - Først undersøger man en masse, går i alle mulige retninger, finder muligheder..
+      - Når man så har en million retninger at gå, VÆLGER man den der virker bedst,
+        MAN INDSNÆVRER SIG.
+      - Fra et perspektiv, er en af de bedste former for kritik, en BEDRE IDÉ!
+        - Den var ALDRIG kommet, havde den ikke haft en idé at erstatte.
+        - KRITISER DIG FREM TIL EN LØSNING!
+      - Godt design af technology, fixer hvad der var galt ved den gamle technology, samtidigt med at den beholder fordelene.
+
+
+       

@@ -84,7 +84,7 @@ Kapitel 5 :: Evolutionary Requirements
       - Response times, throughput, accuracy, availability, resource usage.
     - Supportability;
       - Adaptability, maintainability, internationalization, configurability.
-5.5
+5.5 + 5.6 + 5.7
   - UP kravs artifacter:
     - Use-Case Model
     - Supplerende specification
@@ -96,7 +96,12 @@ Kapitel 5 :: Evolutionary Requirements
       - Attributter af et objekt
       - Acceptable krav
     - Vision
-      - Ikke at forveklse med virksomheds mission
+      - Ikke at forveklse med virksomheds mission'
+      - For at få et overblik for projektets store idéer
     - Business Rules
-5.6
-5.7
+      - Generelle regler for en business (fx Skat har skatte regler)
+      - Kan genbruges på flere projekter
+  - Alle artefacter kan være i hvilket som helst format,
+    (plakater, documenter etc.)
+  - Usecases er mest brugt af forrigt omtalte artifakter
+  - Bogen fokuserer mest på disse.

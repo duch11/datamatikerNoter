@@ -3,27 +3,48 @@ Uge 36 - Case Studies and Inception
 
 Kapitel 3 :: Eksempler/cases
 
-    3.1 + 3.2
-     - hovedfokus grundlogik, mindre fokus på andre lag i applicationen, meget lidt fokus på UI
-     - vi lærer om det her itterativt så eksemplerne kommer igen op i bogen senere, når vi ved mere.
-    3.3
-     - NextGen POS System (point of sale)
-       - Hardware componenter (bar code scanner, computer)
-       - 3. party tax calculator (interfacer)
-       - Inventory control (interfacer)
-     - Skal være robust, kunne tage imod salg selvom mangel på kontakt til fx inventory system.
-     - Skal supportere mange forskellige interfaces;
-       - Standard pc med touchskærm fx java swing
-       - Thin web client, web interface
-       - PDA interface, fx android måske
-     - Skal kunne bruges af mange forskellige slags forretninger (flexibilitet)
-       - fx tøjbutik vs computerbutik
-     3.4
-      - Monopoly spil
-      - meget anderledes end POS system men Object orienteret analyse og design stadig relevant
-      - Skal køre som en simulering, mod en rigtig spiller.
+3.1 + 3.2
+  - hovedfokus grundlogik, mindre fokus på andre lag i applicationen, meget
+  lidt fokus på UI
+  - vi lærer om det her itterativt så eksemplerne kommer igen op i bogen
+  senere, når vi ved mere .
+3.3
+  - NextGen POS System (point of sale)
+    - Hardware componenter (bar code scanner, computer)
+    - 3. party tax calculator (interfacer)
+    - Inventory control (interfacer)
+  - Skal være robust, kunne tage imod salg selvom mangel på kontakt til fx inventory system.
+    - Skal supportere mange forskellige interfaces;
+    - Standard pc med touchskærm fx java swing
+    - Thin web client, web interface
+    - PDA interface, fx android måske
+  - Skal kunne bruges af mange forskellige slags forretninger (flexibilitet)
+    - fx tøjbutik vs computerbutik
+3.4
+  - Monopoly spil
+  - meget anderledes end POS system men Object orienteret analyse og design stadig relevant
+  - Skal køre som en simulering, mod en rigtig spiller.
 
 Kapitel 4 :: Inception
-- Første fase.
-- 10% usecases analyseret.
-- klar til programmering i den efterfølgende, "elaboration" fase.
+  - Første fase.
+  - 10% usecases analyseret.
+  - klar til programmering i den efterfølgende, "elaboration" fase.
+4.1 + 4.2
+  - Er projektet realistisk, realiserbart
+  - Burde vi købe software i stedet for at bygge det
+  - Cost estimation
+  - Skal vi gå videre med projektet?
+  - Ret kort fase, analyse og codning foregår ikke her, men i elaboration.
+4.3 + 4.4
+  - Artifacts i inception fasen
+    - fx. Proof of concept. (kan fx være noget )
+    - Business case (de store linier, hvad er målene hvad er begrænsningerne)
+    - iteration plan(første itteration)
+    - Risk List / Risk management plan
+    - Software dev. plan, lav præcision, godt overslag
+4.5
+    - Brug artifacts efter BEHOV!
+
+Kapitel 5 :: Evolutionary Requirements
+  // Ours is a world where people don't know what they want
+  // and are willing to go through hell to get it.

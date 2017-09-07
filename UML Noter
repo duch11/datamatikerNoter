@@ -48,3 +48,55 @@ Kapitel 4 :: Inception
 Kapitel 5 :: Evolutionary Requirements
   // Ours is a world where people don't know what they want
   // and are willing to go through hell to get it.
+  - Handler om det at sætte krav til programmet, og om hvor forkert det er
+    at tro at man ved alt fra starten.
+5.1
+  - Krav er de egenskaber og betingelser som projektet og systemet skal
+    tilpasse sig.
+  - UP = best practices for at styre krav (manage requirements)
+  - "a systematic approach to finding, documenting,
+    organizing, and tracking the changing requirements of a system"
+  - Bogen snakker om at man skal arbejde itterativt og arbejdsomt.
+  - IKKE VÆRE DOVEN!!
+5.2
+  - UP: Change as a fundamental driver in projects
+  - Programmering og testing starter tidligt og før mange krav er sat.
+  - ADVARSEL: Sæt ikke alle krav fra start, det er waterfall modellen! SKIDT!
+  - Mellemvej, mellem at definere alle krav først og at IKKE definere krav.
+  - Definer få krav, waterfall model: 45% af alle krav ALDRIG brugt.
+5.3
+  - Hvilke gode måder er der på at FINDE (ikke opfinde) kravene?
+  - Generelt er der teknikker der involverer kunden og udviklerne.
+    - Usecases
+    - Req. Workshops
+    - Focus groups
+    - Demo af hver itteration af programmet for kunder, for at få feedback.
+5.4
+  - FURPS+ Hvilke slags krav, i hvilke kategorier
+    [Følgende, taget direkte fra bogen;]
+    - Functional requirements
+      - Features, capabilities, security.
+    - Usability;
+      - Human factors, help, documentation.
+    - Reliability;
+      - Frequency of failure, recoverability, predictability.
+    - Performance;
+      - Response times, throughput, accuracy, availability, resource usage.
+    - Supportability;
+      - Adaptability, maintainability, internationalization, configurability.
+5.5
+  - UP kravs artifacter:
+    - Use-Case Model
+    - Supplerende specification
+      - "hvad der ikke kan findes i en usecase"
+      - fx performance og licenser
+      - features, man ikke helt kan eller vil beskrive i usecases
+    - Opslagsliste (glossary)
+      - Data dictionary
+      - Attributter af et objekt
+      - Acceptable krav
+    - Vision
+      - Ikke at forveklse med virksomheds mission
+    - Business Rules
+5.6
+5.7

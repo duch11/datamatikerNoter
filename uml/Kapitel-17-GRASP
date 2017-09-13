@@ -65,3 +65,58 @@ brugbart ifht Objekt orienteret design.
      Patterns can be applied during modeling and during coding.
   4. UML for OO design visual modeling, during which time both GRASP and GoF patterns can
      be applied.
+
+17.8 Creator - Information Expert - Low Coupling - Controller - High Cohesion
+
+  5 GRASP's (General Responsability Assignment Software Patterns)
+
+  Creator
+  ? Hvem laver [object A]?
+    (jo flere jo bedre) Et objekt der;
+  ! Et objekt der "contains or compositely aggregates A."
+  ! Et objekt der "holder styr på A."
+  ! Et objekt der "closely uses A."
+  ! Et objekt der har "the initializing data" for A.
+
+  Information Expert
+  ? Hvem ved noget om et objekt, hvis det får et "id/en nøgle/navn"?
+    eller
+  ? What is a basic principle by which to assign responsibilities to objects?
+  ! Assign a responsibility to the class that has the information needed to
+    fulfill it.
+
+  Low Coupling
+  ? Why Board knows about squares, and why "dog" shouldn't ?
+    eller
+  ? How to reduce the impact of change ?
+  ! Assign responsibilities so that (unnecessary) coupling remains low. Use this
+    principle to evaluate alternatives. !
+
+  Controller
+  ? What first object beyond the UI layer receives and coordinates ("controls") a
+    system operation ?
+  ! Assign the responsibility to an object representing one of these choices:
+    ! Represents the overall "system," a "root object,"
+    ! a device that the software is running within,
+    ! or a major subsystem (these are all variations of a facade controller).
+    ! Represents a use case scenario within which the system operation
+      occurs (a use case or session controller)!
+
+  High Cohesion
+  ? Hvordan er du ikke dum og kører efter gammeldags C principper når du har OO
+    eller
+  ? How to keep objects focused, understandable, and manageable, and as a side
+    effect, support Low Coupling ?
+
+  ! Assign responsibilities so that cohesion remains high. Use this to evaluate
+    alternatives.
+    eller
+  ! Lad nu være med at lave gigantiske klasser, fordel funktionalitet ud over
+    mange klasser.. Det er smartere! og mere maintainable.
+
+17.9 Applying GRASP to Object Design
+  - Der findes i alt 9 GRASP patterns, de sidste 4 bliver snakket om i kapitel
+    25: Pure Fabrication - Indirection - Protected Variations - Polymorphism
+
+17.10 ++
+  - Detaljerede eksempler på de første 5.

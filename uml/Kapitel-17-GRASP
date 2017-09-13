@@ -1,0 +1,33 @@
+
+Kapitel 17 :: GRASP Designing Objects with Responsibilities
+
+17.1 UML versus Design Principles
+- Det bedste værktøj til OOD er ikke UML, men et sind der er veluddannet indenfor disiplinen.
+
+17.2 Object design, Example inputs, activities and Outputs
+- Giver et godt overblik over hvad man gør når man skal designe software med en itterativ metode.
+  - Der kigges på hvad der ER allerede gjort. (workshops, diagrammer etc)
+  - Der beskrives hvordan de forskellige Artifacts/diagrammer kan bruges i POS eksemplet.
+  - Man har undersøgt fx showstoppers som Swing UI, og man har lavet nogle usecases og en domænemodel.. mfl
+- Man bruger så 1. dag at designe/modellere.
+  - Dette kunne være test-first driven programming/developement
+  - eller UML eller andre Model teknikker
+  - Man kan designe UI, Databaser, Objecter etc
+  - Bruge prototyper, sketches etc
+  - Når dag 1 er færdig kan man have produceret alt fra UI sketches til klasse diagrammer, database modeller mfl.
+
+- Dag 2. går man i gang med at programmere, for at sikre sig at man ikke falder ned i Waterfall-mentaliteten.
+
+17.3 Responsabilities and R-Driven Design
+- Alle objecter skal have et ansvar, en rolle og samarbejdskontrakter (collaborations)
+  - Responsabilities kan være 2 ting:
+    - Doing
+      - Gøre noget selv
+      - få andre objecter til at gøre noget
+      - koordinere aktiviteter i andre objekter.
+    - Knowing
+      - Vide noget om egen data (privat fx)
+      - Kende til relaterede objekter
+      - Vide hvad den kan beregne eller regne ud.
+    fx. et salg laver madobjekter og kender selv totalen.
+- Guideline

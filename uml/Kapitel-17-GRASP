@@ -52,4 +52,16 @@ brugbart ifht Objekt orienteret design.
   - GRASP er mest til at hjælpe os med at lære om principperne med ansvar osv
   - Når man først forstår det, er det ikke så nødvendigt med specifikke termer..
 
-17.5 
+17.5
+
+17.6
+
+17.7 Summary
+  2. RDD as a metaphor for object design, a community of
+     collaborating responsible objects.
+  3. Patterns as a way to name and explain OO design ideas.
+     GRASP for basic patterns of assigning responsibilities
+     GoF for more advanced design ideas.
+     Patterns can be applied during modeling and during coding.
+  4. UML for OO design visual modeling, during which time both GRASP and GoF patterns can
+     be applied.
